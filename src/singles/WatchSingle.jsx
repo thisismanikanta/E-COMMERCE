@@ -1,5 +1,5 @@
 import React from 'react'
-import { watchData } from '../stores/data/Watch';
+import { watchData } from '../stores/data/watch';
 import { useParams } from 'react-router-dom'
 import Navbar from '../stores/components/Navbar';
 import { useCart } from '../stores/context/CartContext'
