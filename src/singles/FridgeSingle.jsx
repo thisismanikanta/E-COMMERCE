@@ -1,5 +1,5 @@
 import React from 'react'
-import { fridgeData } from '../stores/data/Fridge';
+import { fridgeData } from '../stores/data/fridge';
 import { useParams } from 'react-router-dom'
 import Navbar from '../stores/components/Navbar';
 import { useCart } from '../stores/context/CartContext'
