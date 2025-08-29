@@ -1,5 +1,5 @@
 import React from 'react'
-import {watchData} from '../data/Watch'
+import {watchData} from '../data/watch'
 const watch = () => {
   const firstFiveImages=watchData.slice(0,5)
     return (

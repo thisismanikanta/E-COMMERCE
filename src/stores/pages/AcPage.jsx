@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { acData } from '../data/Ac'
+import { acData } from '../data/ac'
 import Navbar from '../components/Navbar'
 import { Link } from 'react-router-dom'
 

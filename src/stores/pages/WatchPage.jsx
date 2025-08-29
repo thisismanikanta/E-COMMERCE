@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import { watchData } from '../data/Watch'
+import { watchData } from '../data/watch'
 import Navbar from '../components/Navbar'
 import { Link } from 'react-router-dom'
 

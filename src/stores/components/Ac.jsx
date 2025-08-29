@@ -1,5 +1,5 @@
 import React from 'react'
-import {acData} from '../data/Ac'
+import {acData} from '../data/ac'
 const Ac = () => {
   const firstFiveImages=acData.slice(0,5)
     return (

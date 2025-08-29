@@ -2,7 +2,6 @@
   "name": "e-mart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://thisismanikanta.github.io/E-COMMERCE",
   "type": "module",
   "scripts": {
     "dev": "vite",

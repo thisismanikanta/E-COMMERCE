@@ -1,5 +1,5 @@
 import React from 'react'
-import {fridgeData} from '../data/Fridge'
+import {fridgeData} from '../data/fridge'
 const Fridge = () => {
  const firstFiveImages=fridgeData.slice(0,5)
    return (
